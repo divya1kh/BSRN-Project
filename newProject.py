@@ -104,8 +104,10 @@ def place_ship():
 
 place_ship()
 
-# #Eingabe Spalte zulässig ja/nein
-# while True:
+#####################################################
+# Spiel: Schüsse setzten 
+
+# #Eingabe Spalte zulässig ja/nein while True:
 #     zustand=True
 #     while zustand:
 #         spalte=input("Spalte:")
